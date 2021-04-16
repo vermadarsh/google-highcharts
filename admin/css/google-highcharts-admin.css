@@ -1,0 +1,6 @@
+.hc-file-err{color: red; font-weight: bold;}
+.hc-admin-view{width: 350px;height:200px;max-width: 100%;}
+.hc-error{color: red !important;}
+@media screen and (max-width:768px){
+    .hc-admin-view{display: none;}
+}
